@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wakaka Helicopter.CSharp.Plugins", "Wakaka Helicopter.CSharp.Plugins.csproj", "{8922907D-76A7-5528-2639-8FAFA5D0DC3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wakaka Helicopter.CSharp", "Wakaka Helicopter.CSharp.csproj", "{2B1FE6B9-CFA5-B503-D429-F1DC396EE2B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wakaka Helicopter.CSharp.Editor", "Wakaka Helicopter.CSharp.Editor.csproj", "{E121BC24-40A4-9FD3-0C54-65113B46E2A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8922907D-76A7-5528-2639-8FAFA5D0DC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8922907D-76A7-5528-2639-8FAFA5D0DC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8922907D-76A7-5528-2639-8FAFA5D0DC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8922907D-76A7-5528-2639-8FAFA5D0DC3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1FE6B9-CFA5-B503-D429-F1DC396EE2B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1FE6B9-CFA5-B503-D429-F1DC396EE2B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1FE6B9-CFA5-B503-D429-F1DC396EE2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1FE6B9-CFA5-B503-D429-F1DC396EE2B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E121BC24-40A4-9FD3-0C54-65113B46E2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E121BC24-40A4-9FD3-0C54-65113B46E2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E121BC24-40A4-9FD3-0C54-65113B46E2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E121BC24-40A4-9FD3-0C54-65113B46E2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
